@@ -118,13 +118,11 @@
 	- python
 		- [백준] [조건문](https://www.acmicpc.net/step/1) (홀수번 문제 총 4문제)
 		- [백준] [반복문](https://www.acmicpc.net/step/3) (짝수번 문제 총 6문제)
-   
-   
-      	- [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 7~9강 유튜브 강의 시청 (+발표자: 7\~8강, 9강 발표 준비)
-      		-   7강: [Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=7)
-       		-   8강: [Pytorch Dataloader](https://www.youtube.com/watch?v=zN49HdDxHi8&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=8)
-		  
-      		-   9강: [Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=9)
+	
+	- [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 7~9강 유튜브 강의 시청 (+발표자: 7\~8강, 9강 발표 준비)
+		-   7강: [Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=7)
+		-   8강: [Pytorch Dataloader](https://www.youtube.com/watch?v=zN49HdDxHi8&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=8)  
+		-   9강: [Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=9)
 	- AI 예제 코드에 주석 달기 
 		 - [*07_diabets_logistic.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_diabets_logistic.py) 
 		 - [*08_1_dataset_loader.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/08_1_dataset_loader.py)
