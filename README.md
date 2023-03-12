@@ -69,7 +69,8 @@
     
 - **과제 공지**
 	- Python 문제 풀기
-	- AI 1\~3강, 4\~6강 발표
+	- AI 1\~3강, 4\~6강 강의 시청 및 발표자 준비
+	- AI 예제코드 작성	
 	
 	<details>
    	<summary><strong>main HW</strong></summary>
@@ -110,7 +111,9 @@
    - 6강 예제코드 주석 리뷰
    
 - **과제 공지**
-	
+	- Python 문제 풀기
+	- AI 7\~8강, 9강 강의 시청 및 발표자 준비
+	- AI 예제코드 작성	
 
 	<details>
 	<summary><strong>main HW</strong></summary>
