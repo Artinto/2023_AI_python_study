@@ -69,7 +69,7 @@
     
 - **과제 공지**
 	- Python 문제 풀기
-	- AI 1\~3강, 4\~6강 강의 시청 및 발표자 준비
+	- AI 1강, 2강 강의 시청 및 발표자 준비
 	- AI 예제코드 작성	
 	
 	<details>
@@ -78,15 +78,13 @@
 	- python
    		- [백준] [입출력과 사칙연산](https://www.acmicpc.net/step/1) (13문제) 
 		
-	- AI [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 1\~6강 유튜브 시청 (+발표자: 1\~2강, 3\~4강 발표 준비)
+	- AI [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 1\~6강 유튜브 시청 (+발표자: 1강, 2강 발표 준비)
 		- 1강: [Overview](https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=1)
 		- 2강: [Linear Model](https://www.youtube.com/watch?v=l-Fe9Ekxxj4&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=2)
-		- 3강: [Gradient Descent](https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=1)
-		- 4강: [Back-propagation and Autograd](https://www.youtube.com/watch?v=l-Fe9Ekxxj4&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=2)
 
 		
 	- AI 예제 코드에 주석 달기 
-		- [*06_logistic_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/06_logistic_regression.py)
+		- [*01_basics.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/01_basics.py)
 		
    	</details>
    
