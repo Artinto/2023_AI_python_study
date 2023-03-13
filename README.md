@@ -78,13 +78,12 @@
 	- python
    		- [백준] [입출력과 사칙연산](https://www.acmicpc.net/step/1) (13문제) 
 		
-	- AI [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 1\~6강 유튜브 시청 (+발표자: 1\~3강, 4\~6강 발표 준비)
+	- AI [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 1\~6강 유튜브 시청 (+발표자: 1\~2강, 3\~4강 발표 준비)
 		- 1강: [Overview](https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=1)
 		- 2강: [Linear Model](https://www.youtube.com/watch?v=l-Fe9Ekxxj4&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=2)
 		- 3강: [Gradient Descent](https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=1)
 		- 4강: [Back-propagation and Autograd](https://www.youtube.com/watch?v=l-Fe9Ekxxj4&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=2)
-		- 5강: [Linear Regression](https://www.youtube.com/watch?v=113b7O3mabY&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=5)
-		- 6강: [Logistic Regression](https://www.youtube.com/watch?v=GAKTBQn7yKo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=6)
+
 		
 	- AI 예제 코드에 주석 달기 
 		- [*06_logistic_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/06_logistic_regression.py)
@@ -122,7 +121,9 @@
 		- [백준] [조건문](https://www.acmicpc.net/step/1) (홀수번 문제 총 4문제)
 		- [백준] [반복문](https://www.acmicpc.net/step/3) (짝수번 문제 총 6문제)
 	
-	- [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 7~9강 유튜브 강의 시청 (+발표자: 7\~8강, 9강 발표 준비)
+	- [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 7~9강 유튜브 강의 시청 (+발표자: 7\~8강, 9강 발표 준비)	
+		-   5강: [Linear Regression](https://www.youtube.com/watch?v=113b7O3mabY&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=5)
+		-   6강: [Logistic Regression](https://www.youtube.com/watch?v=GAKTBQn7yKo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=6)
 		-   7강: [Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=7)
 		-   8강: [Pytorch Dataloader](https://www.youtube.com/watch?v=zN49HdDxHi8&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=8)  
 		-   9강: [Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=9)
