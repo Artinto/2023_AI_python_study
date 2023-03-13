@@ -82,7 +82,7 @@
 		- 1강: [Overview](https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=1)
 		- 2강: [Linear Model](https://www.youtube.com/watch?v=l-Fe9Ekxxj4&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=2)
 
-		> [참고 영상](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+	- [참고 영상](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 		
 		> Pytorch 기반 인공지능을 학습하는 스터디이므로 본 영상은 참고만 하시길 바랍니다.
 		
