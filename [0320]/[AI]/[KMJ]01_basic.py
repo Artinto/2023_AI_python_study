@@ -1,4 +1,7 @@
 import numpy as np
+# numpy : 수치해석, 통계 관련 기능을 구현하는 라이브러리
+# import를 사용하여 numpy를 불러온다.
+# as np는 앞으로 numpy를 사용할 때 np라고 부를 것이다.
 import matplotlib.pyplot as plt
 
 x_data = [1.0, 2.0, 3.0]
