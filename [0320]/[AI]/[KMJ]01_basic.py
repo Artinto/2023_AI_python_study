@@ -1,3 +1,4 @@
+# 라이브러리 불러오기
 # import는 기본적인 함수외의 다른 여러가지 함수들을 사용하기 위해 필요한 라이브러리를 불러온다는 의미이다.
 # as @@은 앞에 언급된 라이브러리를 사용할 때 앞으로 @@으로 줄여서 부른다는 의미이다.
 import numpy as np
@@ -5,11 +6,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 # matplotlib.pyplot : 그래프를 그릴 때 사용하는 라이브러리
 
+# 학습할 데이터 셋 구성
 x_data = [1.0, 2.0, 3.0]
+# x데이터 : 예측할 때 참고할 값
 y_data = [2.0, 4.0, 6.0]
+# y데이터 : 예측 해야하는 데이터의 정답 값
 
-
-# our model for the forward pass
+# 학습 모델 생성
 def forward(x):
     return x * w
 
