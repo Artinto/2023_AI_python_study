@@ -33,7 +33,6 @@ def forward(x):
     
     
 
-
 # 손실합수 정의
 # Loss function : 오차를 계산하는 함수(손실함수)
 
@@ -42,18 +41,22 @@ def loss(x, y):
     y_pred = forward(x)
     # x*w를 통해 계산한 예측값
     return (y_pred - y) * (y_pred - y)
-    # loss(예측값-정답)^2값 반환.
+    # loss(예측값-정답)^2값 반환
 
 
 
-# 
+    
+# 가중치와 오차들
 # List of weights/Mean square Error (Mse) for each input
 
 w_list = []
+# weight(가중치)들을 모아 놓은 리스트
 mse_list = []
+# 오차값들을 모아 놓은 리스트
 
+# 
 for w in np.arange(0.0, 4.1, 0.1):
-    # Print the weights and initialize the lost
+# 0.0에서 4.1전까지 0.1의 간격으로 만든 array에 w 반복
     print("w=", w)
     l_sum = 0
 
@@ -73,7 +76,6 @@ for w in np.arange(0.0, 4.1, 0.1):
 
 
     
-
 # 그래프 생성
 # Plot it all
 plt.plot(w_list, mse_list)
