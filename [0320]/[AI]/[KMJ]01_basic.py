@@ -1,8 +1,9 @@
+# import는 기본적인 함수외의 다른 여러가지 함수들을 사용하기 위해 필요한 라이브러리를 불러온다는 의미이다.
+# as @@은 앞에 언급된 라이브러리를 사용할 때 앞으로 @@으로 줄여서 부른다는 의미이다.
 import numpy as np
 # numpy : 수치해석, 통계 관련 기능을 구현하는 라이브러리
-# import를 사용하여 numpy를 불러온다.
-# as np는 앞으로 numpy를 사용할 때 np라고 부를 것이다.
 import matplotlib.pyplot as plt
+# matplotlib.pyplot : 그래프를 그릴 때 사용하는 라이브러리
 
 x_data = [1.0, 2.0, 3.0]
 y_data = [2.0, 4.0, 6.0]
