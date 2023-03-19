@@ -57,10 +57,14 @@ mse_list = []
 # 
 for w in np.arange(0.0, 4.1, 0.1):
 # 0.0에서 4.1전까지 0.1의 간격으로 만든 array에 w 반복
+# array[0.0 0.1 0.2 0.3 ... 3.8 3.9 4.0]
     print("w=", w)
+    # w=@ 형태로 w 값 출력
     l_sum = 0
-
+    # l_sum : loss((예측값-정답)^2)들의 합
+    
     for x_val, y_val in zip(x_data, y_data):
+    # x_val에 x_data의 
         # For each input and output, calculate y_hat
         # Compute the total loss and add to the total error
         y_pred_val = forward(x_val)
