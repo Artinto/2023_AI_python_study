@@ -46,7 +46,7 @@ def loss(x, y):
 
 
     
-# 가중치와 오차들
+# 가중치와 오차들 찾기
 # List of weights/Mean square Error (Mse) for each input
 
 w_list = []
@@ -54,7 +54,7 @@ w_list = []
 mse_list = []
 # 오차값들을 모아 놓은 리스트
 
-# 
+# 가중치 값 기계산하기
 for w in np.arange(0.0, 4.1, 0.1):
 # 0.0에서 4.1전까지 w값을 0.1씩 증가시키면서 반복
 # 0.0  0.1  0.2  0.3  ...  3.8  3.9  4.0
