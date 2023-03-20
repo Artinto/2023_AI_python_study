@@ -114,13 +114,15 @@
 - **과제 공지**
 	- Python 문제 풀기
 	- AI 3강, 4강 강의 시청 및 발표자 준비
+	    - 3강: 박주형
+	    - 4강: 김대원
 	- AI 예제코드 작성	
 
 	<details>
 	<summary><strong>main HW</strong></summary>
 
 	- python
-		- [백준] [조건문](https://www.acmicpc.net/step/1) (홀수번 문제 총 4문제)
+		- [백준] [조건문](https://www.acmicpc.net/step/4) (홀수번 문제 총 4문제)
 		- [백준] [반복문](https://www.acmicpc.net/step/3) (짝수번 문제 총 6문제)
 	
 	- [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 7~9강 유튜브 강의 시청 (+발표자: 3강, 4강 발표 준비)	
@@ -136,15 +138,51 @@
    <details>
    <summary><strong>sub HW</strong></summary>
 
-    - [백준] [if문](https://www.acmicpc.net/step/4)
-    - [백준] [for문](https://www.acmicpc.net/step/3)
+    - [프로그래머스] [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)
    
    </details>
 
 <br>
 
-### 3주차
-추가 예정
+### 3주차: 
+- **스터디 진행**
+   - 지난 주차 python 코딩 과제 리뷰 
+   (작성한 코드를 서로 공유하며, 모르는 부분 궁금한 부분에 대해 서로 질문)
+   - AI 3~4강 발표 & 어려웠던 부분 질문
+       - 3강: 박주형
+       - 4강: 김대원 
+   - 02_manual_gradient.py, 03_auto_gradient.py 예제코드 주석 리뷰
+   
+- **과제 공지**
+	- Python 문제 풀기
+	- AI 5강, 6강 강의 시청 및 발표자 준비
+	    - 5강: 최은서
+	    - 6강: 이승주
+	- AI 예제코드 작성	
+
+	<details>
+	<summary><strong>main HW</strong></summary>
+
+	- python
+		- [백준] [1차원 배열](https://www.acmicpc.net/step/6) (짝수번 문제 총 5문제)
+		- [백준] [문자열](https://www.acmicpc.net/step/7) (홀수번 문제 총 6문제)
+	
+	- [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 7~9강 유튜브 강의 시청 (+발표자: 3강, 4강 발표 준비)	
+		-   5강: [Linear Regression](https://www.youtube.com/watch?v=113b7O3mabY&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=5&ab_channel=SungKim)
+		-   6강: [Logistic Regression](https://www.youtube.com/watch?v=GAKTBQn7yKo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=6&ab_channel=SungKim)
+
+	- AI 예제 코드에 주석 달기 
+		 - [*05_linear_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/05_linear_regression.py) 
+		 - [*06_logistic_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/06_logistic_regression.py)
+   
+   </details>
+   
+   <details>
+   <summary><strong>sub HW</strong></summary>
+
+    - [프로그래머스] [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
+   
+   </details>
 
 
 
