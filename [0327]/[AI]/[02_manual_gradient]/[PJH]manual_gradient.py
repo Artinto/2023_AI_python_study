@@ -20,7 +20,7 @@ def loss(x, y):
 
 # compute gradient
 def gradient(x, y):  # d_loss/d_w
-    return 2 * x * (x * w - y)
+    return 2 * x * (x * w - y) # (w*x-y)^2을 미분하여 기울기를 나타냄
 # gradient라는 함수는 앞서 설명했듯이 loss가 최소일 때의 w라는 가중치를 구하는 함수이다.
 
 
