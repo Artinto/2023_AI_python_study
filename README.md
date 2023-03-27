@@ -186,6 +186,45 @@
 
 
 
+### 4주차: 
+- **스터디 진행**
+   - 지난 주차 python 코딩 과제 리뷰 
+   (작성한 코드를 서로 공유하며, 모르는 부분 궁금한 부분에 대해 서로 질문)
+   - AI 5~6강 발표 & 어려웠던 부분 질문
+       - 5강: 최은서
+       - 6강: 이승주 
+   - 05_linear_regression.py, 06_logistic_regression.py 예제코드 주석 리뷰
+   
+- **과제 공지**
+	- Python 문제 풀기
+	- AI 7강, 8강 강의 시청 및 발표자 준비
+	    - 7강: 
+	    - 8강: 
+	- AI 예제코드 작성	
+
+	<details>
+	<summary><strong>main HW</strong></summary>
+
+	- python
+		- [백준] [심화 1](https://www.acmicpc.net/step) (모든 문제 총 10문제)
+	
+	- [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 7~8강 유튜브 강의 시청 (+발표자: 5강, 6강 발표 준비)	
+		-   7강: [Wide and Deep](https://www.youtube.com/watch?v=113b7O3mabY&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=5&ab_channel=SungKim)
+		-   8강: [PyTorch DataLoader](https://www.youtube.com/watch?v=GAKTBQn7yKo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=6&ab_channel=SungKim)
+
+	- AI 예제 코드에 주석 달기 
+		 - [*07_linear_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_linear_regression.py) 
+		 - [*08_logistic_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/08_logistic_regression.py)
+   
+   </details>
+   
+   <details>
+   <summary><strong>sub HW</strong></summary>
+
+    - [프로그래머스] [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
+   
+   </details>
+
 
 <br><br>
 
