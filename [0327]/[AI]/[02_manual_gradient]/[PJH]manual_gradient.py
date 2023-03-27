@@ -23,7 +23,7 @@ def gradient(x, y):  # d_loss/d_w
 
 
 # Before training
-print("Prediction (before training)",  4, forward(4))
+print("Prediction (before training)",  4, forward(4)) # 학습 전의 w를 나타냄, 즉 학습 전의 학습량으로 정의
 
 # Training loop
 for epoch in range(10): # range()는 ()안의 만큼 for문을 돌리는 것으로 ()안의 숫자가 많아질 수록 loss=0에 수렴하는 가중치를 더 정확히 구할 수 있음
@@ -38,4 +38,4 @@ for epoch in range(10): # range()는 ()안의 만큼 for문을 돌리는 것으�
     print("progress:", epoch, "w=", round(w, 2), "loss=", round(l, 2))
 
 # After training
-print("Predicted score (after training)",  "4 hours of studying: ", forward(4))
+print("Predicted score (after training)",  "4 hours of studying: ", forward(4)) # 학습 후 학습으로 인한 w의 증가량을 나타냄
