@@ -28,7 +28,7 @@ model = Model()
 #위에서 선언한 model클래스 객체 생성
 criterion = nn.BCELoss(reduction='mean')
 #BCE는 Binary cross-entropy의 약자로 logistic regression에서 loss를 구할 때 사용
-#TRUE 나 FALSE와 같이 2개의 class로 구분하는 방식으로 0과 1사이의 값을 반환하며 1에 가까우면 true 0에 가까우면 false일 확률이 큰 것이다. 
+#MSE의 local cost minimum이 생기는 오류를 해결하기 위해 사용하게 되었으며 logistic_regression에서 사용함
 optimizer = optim.SGD(model.parameters(), lr=0.01)
 # 경사하강법 함수로 이를 통해 gradient를 구하는 함수 optimizer를 생성 learning rate=0.01로 설정 
 for epoch in range(1000):
@@ -51,7 +51,7 @@ for epoch in range(1000):
 print(f'\nLet\'s predict the hours need to score above 50%\n{"=" * 50}')
 hour_var = model(tensor([[1.0]]))
 print(f'Prediction after 1 hour of training: {hour_var.item():.4f} | Above 50%: {hour_var.item() > 0.5}')
-#모델에 tensor 1.0 값을 넣어 계산하여 출력하고 값이 0.5가 넘으면 true 아니면 false를 출력
+#모델에 대한 반환 값은 0에서 1사이에 값으로 나오며 0.5이상인 경우 true에 가깝고 그외는 false에 가까운 것으로 분류된다. tensor 1.0 값을 넣어 계산하여 출력하고 값이 0.5가 넘으면 true 아니면 false를 출력
 hour_var = model(tensor([[7.0]]))
 print(f'Prediction after 7 hours of training: {hour_var.item():.4f} | Above 50%: { hour_var.item() > 0.5}')
 #위와 값은 방법으로 tensor[7.0]에 대한 값을 출력
