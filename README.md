@@ -213,8 +213,8 @@
 		-   8강: [PyTorch DataLoader](https://www.youtube.com/watch?v=GAKTBQn7yKo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=6&ab_channel=SungKim)
 
 	- AI 예제 코드에 주석 달기 
-		 - [*07_linear_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_linear_regression.py) 
-		 - [*08_logistic_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/08_logistic_regression.py)
+		 - [*07_diabets_logistic.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_diabets_logistic.py) 
+		 - [*08_1_dataset_loader.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/08_1_dataset_loader.py)
    
    </details>
    
