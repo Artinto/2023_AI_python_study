@@ -226,6 +226,48 @@
    </details>
 
 
+### 5주차: 
+- **스터디 진행**
+   - 지난 주차 python 코딩 과제 리뷰 
+   (작성한 코드를 서로 공유하며, 모르는 부분 궁금한 부분에 대해 서로 질문)
+   - AI 7~8강 발표 & 어려웠던 부분 질문
+       - 7강: 박주형
+       - 8강: 김대원
+   - 07_diabets_logistic.py, 08_1_dataset_loader.py 예제코드 주석 리뷰
+   
+- **과제 공지**
+	- Python 문제 풀기
+	- AI 9강, 10강 강의 시청 및 발표자 준비
+	    - 9강: 최은서
+	    - 10강: 이승주
+	- AI 예제코드 작성	
+
+	<details>
+	<summary><strong>main HW</strong></summary>
+
+	- python
+		- [백준] [2차원 배열](https://www.acmicpc.net/step/2) (짝수번 문제 총 2문제)
+		- [백준] [일반 수학1](https://www.acmicpc.net/step/8) (짝수번 문제 총 4문제)
+		- [백준] [약수, 배수와 소수](https://www.acmicpc.net/step/10) (짝수번 문제 총 3문제)
+	
+	- [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 9~10강 유튜브 강의 시청 (+발표자: 9강, 10강 발표 준비)	
+		-   9강: [Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=9&ab_channel=SungKim)
+		-   10강: [Basic CNN](https://www.youtube.com/watch?v=LgFNRIFxuUo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=10&ab_channel=SungKim)
+
+	- AI 예제 코드에 주석 달기 
+		 - [*09_01_softmax_loss.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_01_softmax_loss.py) 
+		 - [*09_2_softmax_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_2_softmax_mnist.py)
+		 - [*10_1_cnn_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/10_1_cnn_mnist.py)
+   
+   </details>
+   
+   <details>
+   <summary><strong>sub HW</strong></summary>
+
+    - [프로그래머스] [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
+   
+   </details>
+
 <br><br>
 
 ## 기타 문의
