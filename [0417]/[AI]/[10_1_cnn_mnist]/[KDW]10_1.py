@@ -49,8 +49,8 @@ class Net(nn.Module):
 # 계산을 편리성을 위해서 log을 사용하며, 결과는 각 label이 가능한 확률이 나온다.
 
 model = Net() # 모델 선언
-optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.5) # Stochastic Gradient Descent를 optimizer로 생성하고, 학습률은 0.01로 한다.
-# momentum을 이용해 이전의 SGD 업데이트 방향성을 반영한다. 보통 0.5~ 0.9로 반영(클수록 더 많이 반영한다)
+optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.5) # 경사하강법을 gradient함수로 사용
+
 
 def train(epoch):
     model.train() # 모델은 학습모드로 실행
