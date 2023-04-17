@@ -307,7 +307,7 @@
    <details>
    <summary><strong>sub HW</strong></summary>
 
-    - [프로그래머스] [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
+    - [프로그래머스] [문자열 정렬하기 (1)]((https://school.programmers.co.kr/learn/courses/30/lessons/120850))
    
    </details>
    
