@@ -267,6 +267,51 @@
     - [프로그래머스] [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
    
    </details>
+   
+### 6주차: 
+- **스터디 진행**
+   - 지난 주차 python 코딩 과제 리뷰 
+   (작성한 코드를 서로 공유하며, 모르는 부분 궁금한 부분에 대해 서로 질문)
+   - AI 9~10강 발표 & 어려웠던 부분 질문
+       - 9강: 최은서
+       - 10강: 이승주
+   - 09_01_softmax_loss.py, 09_2_softmax_mnist.py, 10_1_cnn_mnist.py 예제코드 주석 리뷰
+   
+- **과제 공지**
+	- Python 문제 풀기
+	- AI 11강, 12강, 13강 강의 시청 및 발표자 준비
+	    - 11강:
+	    - 12강: 
+	    - 13강:
+	- AI 예제코드 작성	
+
+	<details>
+	<summary><strong>main HW</strong></summary>
+
+	- python
+		- [백준] [브루트 포스](https://www.acmicpc.net/step/22) (설탕 배달 제외 총 5문제)
+		- [백준] [정렬](https://www.acmicpc.net/step/9) (짝수번 문제 총 4문제)
+	
+	- [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 9~10강 유튜브 강의 시청 (+발표자: 9강, 10강 발표 준비)	
+		-   11강: [Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=11)
+		-   12강: [RNN1 - Basics](https://www.youtube.com/watch?v=ogZi5oIo4fI&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=12)
+		-   13강: [RNN2 - Basics](https://www.youtube.com/watch?v=1vGOQAel2yU&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=13)
+
+	- AI 예제 코드에 주석 달기 
+		 - [*11_1_toy_inception_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/11_1_toy_inception_mnist.py) 
+		 - [*12_1_rnn_basics.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/12_1_rnn_basics.py)
+		 - [*13_1_rnn_classification_basics.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/13_1_rnn_classification_basics.py)
+   
+   </details>
+   
+   <details>
+   <summary><strong>sub HW</strong></summary>
+
+    - [프로그래머스] [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
+   
+   </details>
+   
+   
 
 <br><br>
 
