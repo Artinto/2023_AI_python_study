@@ -321,7 +321,7 @@
     	- 13강: 오승범
    - 11_1_toy_inception_mnist.py, 12_1_rnn_basics.py, 13_1_rnn_classification_basics.py 예제코드 주석 리뷰
    
-- **과제 공지** (5월 1일)
+- **과제 공지**
 	- Python 문제 풀기
 	- AI [*CNN 실습*](https://github.com/Artinto/2023_AI_python_study/blob/main/%5B0508%5D/README.md)
 	
