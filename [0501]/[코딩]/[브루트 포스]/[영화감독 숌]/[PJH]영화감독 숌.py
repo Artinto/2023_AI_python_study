@@ -1,23 +1,13 @@
-N, M = map(int, input().split())
-board = [input() for _ in range(N)]
+N = int(input())
 
-min_count = N * M  # 다시 칠해야 하는 정사각형의 최소 개수
+result = [] # '666'을 포함한 수를 넣는 리스트 초기화
+i = 0
 
-for i in range(N - 7):  # 8x8 크기로 자를 수 있는 모든 경우를 탐색
-    for j in range(M - 7):
-        count1, count2 = 0, 0  # 맨 왼쪽 위가 흰색인 경우, 검은색인 경우의 다시 칠해야 하는 정사각형 개수를 각각 센다
-        for k in range(i, i + 8):
-            for l in range(j, j + 8):
-                if (k + l) % 2 == 0:  # 체스판 모양대로 색을 칠하는 것을 고려
-                    if board[k][l] == 'B':
-                        count1 += 1
-                    else:
-                        count2 += 1
-                else:
-                    if board[k][l] == 'W':
-                        count1 += 1
-                    else:
-                        count2 += 1
-        min_count = min(min_count, count1, count2)
+while True:
+    i += 1
+    if '666' in str(i): # '666'이 포함된 수를 걸러냄
+        result.append(i)
+    if len(result) == N : # result 문자열의 길이가 찾고자 하는 N번과 같을 때로 범위를 제한
+        print(result[N-1]) # N번째로 작은 수 출력
+        break # 무한 for문 탈출
 
-print(min_count)
