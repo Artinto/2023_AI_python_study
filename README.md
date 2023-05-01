@@ -311,7 +311,26 @@
    
    </details>
    
+### 7주차: 
+- **스터디 진행**
+   - 지난 주차 python 코딩 과제 리뷰 
+   (작성한 코드를 서로 공유하며, 모르는 부분 궁금한 부분에 대해 서로 질문)
+   - AI 11~13강 발표 & 어려웠던 부분 질문
+    	- 11강: 박주형
+    	- 12강: 김대원
+    	- 13강: 오승범
+   - 11_1_toy_inception_mnist.py, 12_1_rnn_basics.py, 13_1_rnn_classification_basics.py 예제코드 주석 리뷰
    
+- **과제 공지** (5월 1일)
+	- Python 문제 풀기
+	- AI [*CNN 실습*](https://github.com/Artinto/2023_AI_python_study/blob/main/%5B0508%5D/README.md)
+	
+	<details>
+	<summary><strong>main HW</strong></summary>
+
+	- python
+		- [백준] [집합과 맵](https://www.acmicpc.net/step/49) (모든 문제 총 8문제)
+	
 
 <br><br>
 
