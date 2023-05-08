@@ -8,6 +8,6 @@ for i in range(n):
     else:
         arr.remove(name)  # 퇴근한 직원의 이름을 집합에서 제거
 
-# 집합을 리스트로 변환하고, 역순으로 정렬해서 출력
+# 집합을 리스트로 변환하고, 내림차순으로 정렬해서 출력
 for name in sorted(list(arr), reverse=True):
     print(name)
