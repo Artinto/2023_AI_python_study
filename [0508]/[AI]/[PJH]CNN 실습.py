@@ -95,15 +95,12 @@ with torch.no_grad():
     print('Test Loss: {:.4f}, Test Accuracy: {:.2f}%'
           .format(test_loss, test_acc*100))
 
-
-# In[ ]:
-
-
+![Alt text](파일경로)   #마크다운
+ <img src='<img width="544" alt="KakaoTalk_Photo_2023-05-08-20-20-16" src="https://user-images.githubusercontent.com/59814944/236815310-02e9b79c-01a8-402b-ada8-ec6275430650.png">'>    #html
 
 
-
-# In[ ]:
-
+        
+        
 
 
 
