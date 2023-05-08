@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -94,16 +88,3 @@ with torch.no_grad():
     # 각 epoch에 따른 학습된 모델을 바탕으로 test한 결과 출력
     print('Test Loss: {:.4f}, Test Accuracy: {:.2f}%'
           .format(test_loss, test_acc*100))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
