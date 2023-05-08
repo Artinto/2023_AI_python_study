@@ -331,7 +331,23 @@
 	- python
 		- [백준] [집합과 맵](https://www.acmicpc.net/step/49) (모든 문제 총 8문제)
 	
+### 8주차: 
+- **스터디 진행**
+   - 지난 주차 python 코딩 과제 리뷰 
+   (작성한 코드를 서로 공유하며, 모르는 부분 궁금한 부분에 대해 서로 질문)
+   - AI 실습 코드 돌아가며 발표
+   (해결 못한 부분 함께 고민해보기)
+   
+- **과제 공지**
+	- Python 문제 풀기
+	- AI [*RNN 실습*](https://github.com/Artinto/2023_AI_python_study/blob/main/%5B0515%5D/README.md)
+	
+	<details>
+	<summary><strong>main HW</strong></summary>
 
+	- python
+		- [백준] [스택](https://www.acmicpc.net/step/11) (모든 문제 총 5문제)
+		- [백준] [큐, 덱 단계](https://www.acmicpc.net/step/12) (짝수번 총 3문제)
 <br><br>
 
 ## 기타 문의
