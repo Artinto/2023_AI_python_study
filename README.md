@@ -383,6 +383,23 @@
 
 	- python
 		- [백준] [재귀](https://www.acmicpc.net/step/19) (모든 문제 총 7문제)
+		
+### 10주차: 
+- **스터디 진행**
+   - 지난 주차 python 코딩 과제 리뷰 
+   (작성한 코드를 서로 공유하며, 모르는 부분 궁금한 부분에 대해 서로 질문)
+   - AI 1주차 내용 발표
+   (해결 못한 부분 함께 고민해보기)
+   
+- **과제 공지**
+	- Python 문제 풀기
+	- AI 프로젝트 2주차 발표
+	
+	<details>
+	<summary><strong>main HW</strong></summary>
+
+	- python
+		- [백준] [백트래킹](https://www.acmicpc.net/step/34) (1~8번 문제 총 8문제)
 <br><br>
 
 ## 기타 문의
