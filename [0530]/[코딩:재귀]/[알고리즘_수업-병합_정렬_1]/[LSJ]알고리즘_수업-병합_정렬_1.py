@@ -41,8 +41,8 @@ def merge_sort(A):
         ans.append(right[j])
         j += 1
 
-    return save #save 값 반환
-
+    return save #save는 save=[]로 다시 반환
+#ans는 계속 저장됐으므로 마지막엔 [4,5,1,4,5,2,3,1,2,3,4,5]로 12개의 요소를 갖게 
 merge_sort(arr) # 정의된 함수에 [4,5,1,3,2] 대입
 if len(ans) >= K: 
     print(ans[K-1])
